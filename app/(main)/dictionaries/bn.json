@@ -1,0 +1,240 @@
+{
+  "Header": {
+    "searchPlaceholder": "পণ্যের নাম লিখুন",
+    "search": "খুজুন",
+    "itemsNumber": "টি আইটেম",
+    "cartEmpty": "কার্টে কোন প্রোডাক্ট নেই।",
+    "total": "সর্বমোট",
+    "order": "অর্ডার করুন",
+    "currency": "টাকা",
+    "showAll": "সবগুলো দেখুন"
+  },
+  "Auth": {
+    "profile": "প্রোফাইল",
+    "myOrders": "আমার অর্ডার",
+    "login": "লগইন",
+    "loginOrReg": "লগইন / রেজিস্ট্রেশন",
+    "signin": "সাইন ইন",
+    "signup": "সাইন আপ",
+    "logout": "লগআউট",
+    "email": "ইমেইল",
+    "emailPlaceholder": "ইমেইল",
+    "orPhone": "অথবা ফোন নম্বর দিন",
+    "password": "পাসওয়ার্ড",
+    "confPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "passPlaceholder": "আপনার পাসওয়ার্ড লিখুন",
+    "confPassPlaceholder": "পাসওয়ার্ড নিশ্চিত করুন",
+    "remember": "মনে রাখুন",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "fullName": "পুরো নাম",
+    "namePlaceholder": "আপনার পুরো নাম লিখুন",
+    "phone": "ফোন",
+    "phonePlaceholder": "আপনার ফোন নম্বর লিখুন",
+    "noAccount": "একটি অ্যাকাউন্ট নেই?",
+    "haveAccount": "ইতিমধ্যেই একটি অ্যাকাউন্ট আছে?",
+    "placed": "অর্ডার করা হয়েছে",
+    "orderId": "অর্ডার নম্বর",
+    "orderItems": "আইটেম সংখ্যা",
+    "total": "মোট",
+    "details": "বিস্তারিত",
+    "invoice": "ইনভয়েস",
+    "noFound": "কোনো পণ্য পাওয়া যায়নি",
+    "accountDetails": "অ্যাকাউন্টের বিবরণ",
+    "profilePhoto": "প্রোফাইল ছবি",
+    "role": "ভূমিকা",
+    "dob": "জন্ম তারিখ",
+    "address": "ঠিকানা",
+    "editProfile": "প্রোফাইল এডিট করুন",
+    "pending": "পেন্ডিং",
+    "processed": "প্রসেসিং",
+    "hold": "হোল্ড",
+    "delivered": "ডেলিভারড",
+    "received": "রিসিভড",
+    "cancelled": "বাতিল",
+    "tracking": "ট্র্যাকিং",
+    "shipping": "প্রেরণের ঠিকানা",
+    "products": "পণ্যসমূহ",
+    "quantity": "পরিমাণ",
+    "orderInfo": "অর্ডার তথ্য",
+    "paymentMethod": "পেমেন্ট পদ্ধতি",
+    "subTotal": "সাবটোটাল",
+    "deliveryFee": "ডেলিভারি ফি",
+    "totalPay": "মোট পরিশোধযোগ্য",
+    "currentPass": "বর্তমান পাসওয়ার্ড",
+    "newPass": "নতুন পাসওয়ার্ড",
+    "save": "পরিবর্তন সংরক্ষণ করুন",
+    "cancel": "বাতিল",
+    "addressPlaceholder": "এখানে আপনার ঠিকানা লিখুন",
+    "all": "সব"
+  },
+  "Cart": {
+    "pageTitle": "আপনার কার্ট",
+    "tableProduct": "পণ্য",
+    "tableName": "নাম",
+    "tableQuantity": "পরিমাণ",
+    "tablePrice": "মূল্য",
+    "tableTotal": "মোট",
+    "tableSubTotal": "সাবটোটাল",
+    "tableAction": "মুছুন",
+    "tableEmpty": "আপনার কার্টে কোন প্রোডাক্ট নেই।",
+    "tableCheckout": "চেকআউট করুন",
+    "tableEmptyDesc": "আপনার কার্টে কোন প্রোডাক্ট নেই।"
+  },
+  "Categories": {
+    "allProduct": "সব প্রোডাক্ট",
+    "bestSellingProduct": "বেস্ট সেলিং প্রোডাক্ট",
+    "latestProduct": "নতুন প্রোডাক্ট"
+  },
+  "Global": {
+    "all": "সবগুলো",
+    "noFound": "দুঃখিত! প্রোডাক্ট টি পাওয়া যায় নি।",
+    "latestProduct": "নতুন প্রোডাক্ট",
+    "ourProduct": "আমাদের পণ্যগুলো",
+    "seeMore": "আরো দেখুন"
+  },
+  "TemplateFour": {
+    "latest": "নতুন",
+    "products": "পণ্যগুলো",
+    "our": "আমাদের",
+    "product": "পণ্য"
+  },
+  "TemplateSix": {
+    "ourFoodMenuTitle": "খাবার মেনু"
+  },
+  "Faqs": {
+    "faqTitle": "সাধারণ জিজ্ঞাসা"
+  },
+  "Testimonial": {
+    "testimonialTitle": "ক্রেতার রিভিউ",
+    "customerSay": "আমাদের গ্রাহক কী বলছেন"
+  },
+  "RecentViewed": {
+    "recentTitle": "সম্প্রতি দেখা"
+  },
+  "RelatedProducts": {
+    "relatedTitle": "সম্পর্কিত পণ্য"
+  },
+  "Banner": {
+    "shopBanner": "প্রোডাক্ট পেজ"
+  },
+  "ProductCard": {
+    "seeDetails": "বিস্তারিত দেখুন",
+    "stockOut": "স্টক আউট",
+    "priceCurrency": "মূল্য",
+    "seeMore": "আরো দেখুন",
+    "sectionTitle": "নতুন প্রোডাক্ট",
+    "SortBy": {
+      "sortBy": "সর্ট করুন",
+      "brandsLang": "ব্র্যান্ড",
+      "all": "সবগুলো",
+      "newArrival": "নিউ এরাইভাল",
+      "bestSelling": "বেস্ট সেলিং",
+      "discount": "অফার"
+    }
+  },
+  "ProductDetails": {
+    "price": "মূল্য",
+    "currency": "৳",
+    "addToCart": "কার্টে যোগ করুন",
+    "order": "অর্ডার করুন",
+    "productVarientSelect": "প্রোডাক্টের ভ্যারিয়েন্ট সিলেক্ট করুন",
+    "stockOut": "দুঃখিত! প্রোডাক্টের এই ভ্যারিয়েন্ট টি স্টকে নেই। অন্য ভ্যারিয়েন্ট সিলেক্ট করুন।",
+    "max": "আপনি সর্বোচ্চ",
+    "limitation": "টি প্রোডাক্ট অর্ডার করতে পারবেন। এর বেশি স্টকে নেই।",
+    "outOfStock": "দুঃখিত প্রোডাকটি স্টকে নেই।",
+    "productDetails": "পণ্যের বিবরণ",
+    "detailsCategory": "ক্যাটাগরি",
+    "detailsProductCode": "প্রোডাক্ট কোড",
+    "detailsFabrics": "ফ্যাব্রিক্স",
+    "socialShareDic": "শেয়ার করুন"
+  },
+  "ProductReview": {
+    "ratingAndReview": "পণ্যের রেটিং এবং রিভিউ",
+    "writeReview": "রিভিউ লিখুন",
+    "totalRating": "মোট রেটিং",
+    "productReview": "পণ্যের রিভিউ",
+    "reviewImgUpload": "ফটো আপলোড করুন",
+    "Form": {
+      "yourRating": "আপনার রেটিং",
+      "reviewComment": "আপনার মন্তব্য",
+      "reviewUpload": "ফটো আপলোড করুন",
+      "reviewName": "আপনার নাম",
+      "reviewEmail": "আপনার ইমেইল",
+      "reviewSubmit": "রিভিউ সাবমিট করুন"
+    }
+  },
+  "Checkout": {
+    "formTitle": "ডেলিভারি তথ্য",
+    "orderTitle": "আপনার অর্ডার",
+    "paymentTitle": "পেমেন্ট অপশন",
+    "dicSubTotal": "সাবটোটাল ",
+    "dicDeliveryFee": "ডেলিভারি ফি",
+    "dicCouponProvide": "কুপন কোড থাকলে দিন",
+    "dicTotal": "সর্বমোট",
+    "dicConfirm": "অর্ডার কনফার্ম করুন",
+    "dicConfirmProcessing": "অর্ডার প্রসেসিং",
+    "cartEmpty": "কার্টে কোন প্রডাক্ট নেই",
+    "bkashMsgBefore": "বিকাশ এ 'পেমেন্ট' অপশন থেকে",
+    "bkashMsgAfter": "এই নম্বর এ অর্ডার এমাউন্টটি 'সেন্ড মানি' করুন এবং নিচে আপনার বিকাশ একাউন্ট নম্বর এবং ট্রানজেকশন আইডি টি দিন।",
+    "nagadMsgBefore": "নগদ এ 'পেমেন্ট' অপশন থেকে",
+    "nagadMsgAfter": "এই নম্বর এ অর্ডার এমাউন্টটি 'সেন্ড মানি' করুন এবং নিচে আপনার নগদ একাউন্ট নম্বর এবং ট্রানজেকশন আইডি টি দিন।",
+    "provideBkashNumber": "বিকাশ নম্বর দিন",
+    "provideNagadNumber": "নগদ নম্বর দিন",
+    "bkashTransactionID": "বিকাশ ট্রানজেকশন আইডি দিন",
+    "nagadTransactionID": "নগদ ট্রানজেকশন আইডি দিন",
+    "Form": {
+      "nameLabel": "আপনার নাম লিখুন",
+      "namePlaceholder": "সম্পূর্ণ নামটি লিখুন",
+      "phoneLabel": "আপনার মোবাইল নম্বরটি লিখুন",
+      "phonePlaceholder": "১১ ডিজিটের মোবাইল নম্বরটি লিখুন",
+      "emailLabel": "আপনার ইমেইল এড্রেস লিখুন",
+      "emailPlaceholder": "আপনার ইমেইল এড্রেস লিখুন",
+      "areaLabel": "এলাকা সিলেক্ট করুন",
+      "insideDhaka": "ঢাকার ভিতরে",
+      "outsideDhaka": "ঢাকার বাইরে",
+      "dhakaSubArea": "ঢাকার সাব এরিয়া",
+      "freeDelevery": "ফ্রি ডেলিভারি",
+      "currency": "টাকা",
+      "addressLabel": "সম্পূর্ন ঠিকানা",
+      "addressPlaceholder": "হাউজ নম্বর, রোড, ইউনিয়ন, উপজেলা, জেলা",
+      "noteLabel": "নোট",
+      "optional": "অপশনাল",
+      "notePlaceholder": "আপনার স্পেশাল কোন রিকোয়ারমেন্ট থাকলে এখানে লিখুন"
+    }
+  },
+  "OrderSuccess": {
+    "orderSuccess": "অভিনন্দন! অর্ডারটি সম্পন্ন হয়েছে!",
+    "orderThanks": "এ শপিং করার জন্য আপনাকে ধন্যবাদ!!",
+    "orderIdText": "আপনার অর্ডার আইডি",
+    "shoppingMore": "আরও শপিং করুন"
+  },
+  "Footer": {
+    "contact": "যোগাযোগ",
+    "footerDesc": "দারিব এক জায়গায় শীর্ষস্থানীয় ক্রীড়া সামগ্রী বিক্রি করে। আমাদের পারফরম্যান্স এবং আরামদায়ক জার্সি, টুপি, প্যান্ট এবং জুতা কিনুন। Daarib এর সাথে আপনার খেলা আপ করার জন্য প্রস্তুত করুন।",
+    "company": "কোম্পানি",
+    "aboutUs": "আমাদের সম্পর্কে",
+    "privacyPolicy": "প্রাইভেসি পলিসি",
+    "returnPolicy": "রিটার্ণ পলিসি",
+    "termsAndConditions": "টার্মস এন্ড কন্ডিশনস",
+    "copyRight": "সর্বস্বত্ব সংরক্ষিত দারিব",
+    "payment": "পেমেন্ট করুন",
+    "socialMedia": "সোশ্যাল মিডিয়া",
+    "developBy": "ডেভেলপড বাই"
+  },
+  "AuthModal": {
+    "emailOrPhone": "ইমেইল অথবা ফোন নাম্বার",
+    "emailOrPhonePlaceholder": "আপনার ইমেইল অথবা ফোন নাম্বার দিন",
+    "password": "পাসওয়ার্ড",
+    "passwordPlaceholder": "আপনার পাসওয়ার্ড দিন",
+    "loginButton": "লগইন",
+    "allFieldsRequired": "সব তথ্য দিতে হবে",
+    "invalidIdentifier": "সঠিক ইমেইল অথবা ফোন নাম্বার দিন",
+    "loginFailed": "লগইন ব্যর্থ হয়েছে। আপনার তথ্য চেক করুন",
+    "serverError": "কিছু সমস্যা হয়েছে। আবার চেষ্টা করুন",
+    "phonePlaceholder": "আপনার ফোন নাম্বার দিন (৯-১৫ ডিজিট)",
+    "phoneRequired": "ফোন নাম্বার দিতে হবে",
+    "phoneMinLength": "ফোন নাম্বার কমপক্ষে ৯ ডিজিট হতে হবে",
+    "phoneMaxLength": "ফোন নাম্বার ১৫ ডিজিটের বেশি হতে পারবে না",
+    "phoneInvalid": "শুধুমাত্র নাম্বার দিন"
+  }
+}

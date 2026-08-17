@@ -1,0 +1,243 @@
+{
+  "Header": {
+    "searchPlaceholder": "Produktname hier...",
+    "search": "Suchen",
+    "itemsNumber": "Artikel",
+    "cartEmpty": "Warenkorb ist leer",
+    "total": "Gesamt",
+    "order": "Jetzt bestellen",
+    "currency": "Taka",
+    "showAll": "Alle anzeigen"
+  },
+  "Auth": {
+    "profile": "Profil",
+    "myOrders": "Meine Bestellungen",
+    "login": "Anmelden",
+    "loginOrReg": "Anmelden / Registrieren",
+    "signin": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "orPhone": "oder Telefon",
+    "password": "Passwort",
+    "confPassword": "Passwort bestätigen",
+    "passPlaceholder": "Geben Sie Ihr Passwort ein",
+    "confPassPlaceholder": "Passwort bestätigen eingeben",
+    "remember": "Angemeldet bleiben",
+    "forgotPassword": "Passwort vergessen?",
+    "fullName": "Vollständiger Name",
+    "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+    "phone": "Telefon",
+    "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein",
+    "noAccount": "Noch kein Konto?",
+    "haveAccount": "Haben Sie bereits ein Konto?",
+    "placed": "Bestellt am",
+    "orderId": "Bestellnummer",
+    "orderItems": "Anzahl der Artikel",
+    "total": "Gesamt",
+    "details": "Details",
+    "invoice": "Rechnung",
+    "noFound": "Kein Produkt gefunden",
+    "accountDetails": "Kontodetails",
+    "profilePhoto": "Profilfoto",
+    "role": "Rolle",
+    "dob": "Geburtsdatum",
+    "address": "Adresse",
+    "editProfile": "Profil bearbeiten",
+    "pending": "Ausstehend",
+    "processed": "In Bearbeitung",
+    "hold": "Halten",
+    "delivered": "Geliefert",
+    "received": "Erhalten",
+    "cancelled": "Storniert",
+    "tracking": "Verfolgung",
+    "shipping": "Lieferadresse",
+    "products": "Produkte",
+    "quantity": "Menge",
+    "orderInfo": "Bestellinformationen",
+    "paymentMethod": "Zahlungsmethode",
+    "subTotal": "Zwischensumme",
+    "deliveryFee": "Liefergebühr",
+    "totalPay": "Gesamtbetrag",
+    "currentPass": "Aktuelles Passwort",
+    "newPass": "Neues Passwort",
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "addressPlaceholder": "Geben Sie hier Ihre Adresse ein",
+    "all": "Alle"
+  },
+  "Cart": {
+    "pageTitle": "Dein Warenkorb",
+    "tableProduct": "Produkt",
+    "tableName": "Name",
+    "tableQuantity": "Menge",
+    "tablePrice": "Preis",
+    "tableTotal": "Gesamt",
+    "tableSubTotal": "Zwischensumme",
+    "tableAction": "Entfernen",
+    "tableEmpty": "Dein Warenkorb ist leer",
+    "tableCheckout": "Zur Kasse gehen",
+    "tableEmptyDesc": "Sieht so aus, als hättest du noch nichts in deinen Warenkorb gelegt."
+  },
+  "Categories": {
+    "allProduct": "Alle Produkte",
+    "bestSellingProduct": "Bestseller",
+    "latestProduct": "Neueste Produkte"
+  },
+  "Global": {
+    "all": "Alle",
+    "noFound": "Kein Produkt gefunden",
+    "latestProduct": "Neueste Produkte",
+    "ourProduct": "Unsere Produkte",
+    "seeMore": "Alle anzeigen"
+  },
+  "TemplateFour": {
+    "latest": "Neueste",
+    "products": "Produkte",
+    "our": "Unsere",
+    "product": "Produkte"
+  },
+  "TemplateSix": {
+    "ourFoodMenuTitle": "Unsere Speisekarte"
+  },
+  "Faqs": {
+    "faqTitle": "Häufig gestellte Fragen"
+  },
+  "Testimonial": {
+    "testimonialTitle": "Kundenbewertungen",
+    "customerSay": "Was unsere Kunden sagen"
+  },
+  "RecentViewed": {
+    "recentTitle": "Kürzlich angesehen"
+  },
+  "RelatedProducts": {
+    "relatedTitle": "Ähnliche Produkte"
+  },
+  "Banner": {
+    "shopBanner": "Produktseite"
+  },
+  "ProductCard": {
+    "seeDetails": "Details anzeigen",
+    "stockOut": "Nicht vorrätig",
+    "priceCurrency": "Tk",
+    "seeMore": "Alle anzeigen",
+    "sectionTitle": "Neueste Produkte",
+    "SortBy": {
+      "sortBy": "Sortieren nach",
+      "brandsLang": "Marke",
+      "all": "Alle Produkte",
+      "newArrival": "Neuheiten",
+      "bestSelling": "Bestseller",
+      "discount": "Angebot"
+    }
+  },
+  "ProductDetails": {
+    "price": "Preis",
+    "currency": "৳",
+    "addToCart": "In den Warenkorb",
+    "order": "Jetzt bestellen",
+    "productVarientSelect": "Produktvariante auswählen",
+    "stockOut": "Entschuldigung! Diese Produktvariante ist nicht vorrätig. Bitte wählen Sie eine andere Variante.",
+    "max": "Sie können maximal",
+    "limitation": "Produkte bestellen. Nicht mehr auf Lager.",
+    "outOfStock": "Entschuldigung, das Produkt ist nicht vorrätig.",
+    "productDetails": "Produktdetails",
+    "detailsCategory": "Kategorie",
+    "detailsProductCode": "Produktcode",
+    "detailsFabrics": "Materialien",
+    "socialShareDic": "Teilen mit"
+  },
+  "ProductReview": {
+    "ratingAndReview": "Produktbewertungen",
+    "writeReview": "Bewertung schreiben",
+    "totalRating": "Gesamtbewertung",
+    "productReview": "Produktbewertungen",
+    "reviewImgUpload": "Foto hochladen",
+    "Form": {
+      "yourRating": "Ihre Bewertung",
+      "reviewComment": "Ihr Kommentar",
+      "reviewUpload": "Foto hochladen",
+      "reviewName": "Ihr Name",
+      "reviewEmail": "Ihre E-Mail",
+      "reviewSubmit": "Bewertung absenden"
+    }
+  },
+  "Checkout": {
+    "formTitle": "Versandinformationen",
+    "orderTitle": "Bestelldetails",
+    "paymentTitle": "Zahlungsoptionen",
+    "dicSubTotal": "Zwischensumme",
+    "dicDeliveryFee": "Liefergebühr",
+    "dicCouponProvide": "Gutscheincode eingeben (falls vorhanden)",
+    "dicTotal": "Gesamtbetrag",
+    "dicConfirm": "Bestellung bestätigen",
+    "dicConfirmProcessing": "Bestellung in Bearbeitung",
+    "cartEmpty": "Warenkorb ist leer",
+    "bkashMsgBefore": "Zahlen Sie den Bestellbetrag an",
+    "bkashMsgAfter": "über die Zahlungsoption bei Bkash und geben Sie unten Ihre Bkash-Kontonummer und Transaktions-ID ein.",
+    "nagadMsgBefore": "Überweisen Sie den Bestellbetrag an 'Geld senden'",
+    "nagadMsgAfter": "in bar und geben Sie unten Ihre Nagad-Kontonummer und Transaktions-ID ein.",
+    "provideBkashNumber": "Bkash-Nummer eingeben",
+    "provideNagadNumber": "Nagad-Nummer eingeben",
+    "bkashTransactionID": "Bkash-Transaktions-ID eingeben",
+    "nagadTransactionID": "Nagad-Transaktions-ID eingeben",
+    "Form": {
+      "nameLabel": "Name eingeben",
+      "namePlaceholder": "Vollständigen Namen eingeben",
+      "phoneLabel": "Telefonnummer eingeben",
+      "emailLabel": "E-Mail-Adresse eingeben",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "phonePlaceholder": "11-stellige Telefonnummer eingeben",
+      "areaLabel": "Region auswählen",
+      "insideDhaka": "Innerhalb Dhaka",
+      "outsideDhaka": "Außerhalb Dhaka",
+      "dhakaSubArea": "Dhaka Vorortbereich",
+      "freeDelevery": "Kostenloser Versand",
+      "currency": "Taka",
+      "addressLabel": "Adresse",
+      "addressPlaceholder": "Hausnummer, Straße, Union, Upazila, Bezirk",
+      "noteLabel": "Hinweis",
+      "optional": "Optional",
+      "notePlaceholder": "Besondere Anforderungen hier eintragen"
+    }
+  },
+  "OrderSuccess": {
+    "orderSuccess": "Glückwunsch! Die Bestellung wurde abgeschlossen!",
+    "orderThanks": "Vielen Dank für Ihren Einkauf bei",
+    "orderIdText": "Ihre Bestellnummer lautet",
+    "shoppingMore": "Weiter einkaufen"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "footerDesc": "Daarib verkauft erstklassige Sportartikel an einem Ort. Entdecken Sie unsere leistungsstarken und komfortablen Trikots, Hüte, Hosen & Schuhe. Bereiten Sie sich darauf vor, Ihr Spiel mit Daarib zu verbessern.",
+    "company": "Unternehmen",
+    "aboutUs": "Über uns",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "returnPolicy": "Rückgaberecht",
+    "termsAndConditions": "Geschäftsbedingungen",
+    "copyRight": "Alle Rechte vorbehalten Daarib",
+    "payment": "Zahlung mit",
+    "socialMedia": "Soziale Medien",
+    "developBy": "entwickelt von"
+  },
+  "AuthModal": {
+    "emailOrPhone": "E-Mail oder Telefonnummer",
+    "emailOrPhonePlaceholder": "E-Mail oder Telefonnummer eingeben",
+    "password": "Passwort",
+    "passwordPlaceholder": "Passwort eingeben",
+    "loginButton": "Anmelden",
+    "allFieldsRequired": "Alle Felder sind erforderlich",
+    "invalidIdentifier": "Bitte geben Sie eine gültige E-Mail oder Telefonnummer ein",
+    "loginFailed": "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Ihre Anmeldedaten",
+    "serverError": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut",
+    "phonePlaceholder": "Telefonnummer eingeben (9-15 Ziffern)",
+    "phoneRequired": "Telefonnummer ist erforderlich",
+    "phoneMinLength": "Telefonnummer muss mindestens 9 Ziffern haben",
+    "phoneMaxLength": "Telefonnummer darf nicht mehr als 15 Ziffern haben",
+    "phoneInvalid": "Bitte nur Zahlen eingeben"
+  },
+  "POS": {
+    "emailOrPhone": "E-Mail oder Telefonnummer"
+  }
+}

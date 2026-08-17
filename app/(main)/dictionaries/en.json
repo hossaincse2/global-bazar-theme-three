@@ -1,0 +1,243 @@
+{
+  "Header": {
+    "searchPlaceholder": "Product name here...",
+    "search": "Search",
+    "itemsNumber": "Items",
+    "cartEmpty": "Cart is empty",
+    "total": "Total",
+    "order": "Order Now",
+    "currency": "Taka",
+    "showAll": "Show All"
+  },
+  "Auth": {
+    "profile": "Profile",
+    "myOrders": "My Orders",
+    "login": "Login",
+    "loginOrReg": "Login / Register",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "orPhone": "or Phone",
+    "password": "Password",
+    "confPassword": "Confirm Password",
+    "passPlaceholder": "Enter your password",
+    "confPassPlaceholder": "Enter confirm password",
+    "remember": "Remember me",
+    "forgotPassword": "Forgot Password",
+    "fullName": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "placed": "Placed on",
+    "orderId": "Order Number",
+    "orderItems": "Number of items",
+    "total": "Total",
+    "details": "Details",
+    "invoice": "Invoice",
+    "noFound": "No product found",
+    "accountDetails": "Account Details",
+    "profilePhoto": "Profile Photo",
+    "role": "Role",
+    "dob": "Date Of Birth",
+    "address": "Address",
+    "editProfile": "Edit Profile",
+    "pending": "Pending",
+    "processed": "Processing",
+    "hold": "Hold",
+    "delivered": "Delivered",
+    "received": "Received",
+    "cancelled": "Cancelled",
+    "tracking": "Tracking",
+    "shipping": "Shipping Address",
+    "products": "Products",
+    "quantity": "Qty",
+    "orderInfo": "Order Info",
+    "paymentMethod": "Payment Method",
+    "subTotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "totalPay": "Total Payable",
+    "currentPass": "Current Password",
+    "newPass": "New Password",
+    "save": "Save Changes",
+    "cancel": "Cancle",
+    "addressPlaceholder": "Enter your address here",
+    "all": "All"
+  },
+  "Cart": {
+    "pageTitle": "Your Cart",
+    "tableProduct": "Product",
+    "tableName": "Name",
+    "tableQuantity": "Quantity",
+    "tablePrice": "Price",
+    "tableTotal": "Total",
+    "tableSubTotal": "Subtotal",
+    "tableAction": "Remove",
+    "tableEmpty": "Your cart is empty",
+    "tableCheckout": "Procced to Checkout",
+    "tableEmptyDesc": "Looks like you haven't added anything to your cart yet."
+  },
+  "Categories": {
+    "allProduct": "All Products",
+    "bestSellingProduct": "Best Selling Products",
+    "latestProduct": "Latest Products"
+  },
+  "Global": {
+    "all": "All",
+    "noFound": "No product found",
+    "latestProduct": "Latest Product",
+    "ourProduct": "Our Product",
+    "seeMore": "Browse All"
+  },
+  "TemplateFour": {
+    "latest": "Latest",
+    "products": "Products",
+    "our": "Our",
+    "product": "Product"
+  },
+  "TemplateSix": {
+    "ourFoodMenuTitle": "Our Food Menu"
+  },
+  "Faqs": {
+    "faqTitle": "Some Common Questions"
+  },
+  "Testimonial": {
+    "testimonialTitle": "Customer Reviews",
+    "customerSay": "What Our Customer Says"
+  },
+  "RecentViewed": {
+    "recentTitle": "Recently Viewed"
+  },
+  "RelatedProducts": {
+    "relatedTitle": "Related Products"
+  },
+  "Banner": {
+    "shopBanner": "Product Page"
+  },
+  "ProductCard": {
+    "seeDetails": "See Details",
+    "stockOut": "Out of Stock",
+    "priceCurrency": "Tk",
+    "seeMore": "Browse All",
+    "sectionTitle": "Latest Product",
+    "SortBy": {
+      "sortBy": "Sort By",
+      "brandsLang": "Brand",
+      "all": "All Product",
+      "newArrival": "New Arrival",
+      "bestSelling": "Best Selling",
+      "discount": "Offer"
+    }
+  },
+  "ProductDetails": {
+    "price": "Price",
+    "currency": "৳",
+    "addToCart": "add to cart",
+    "order": "order now",
+    "productVarientSelect": "Select the product variant",
+    "stockOut": "Sorry! This variant of the product is out of stock. Select another variant.",
+    "max": "You can order a maximum of",
+    "limitation": "products. No more in stock.",
+    "outOfStock": "Sorry, the product is out of stock.",
+    "productDetails": "Product Details",
+    "detailsCategory": "Category",
+    "detailsProductCode": "Product Code",
+    "detailsFabrics": "Fabrics",
+    "socialShareDic": "Share With"
+  },
+  "ProductReview": {
+    "ratingAndReview": "Product ratings and reviews",
+    "writeReview": "Write a review",
+    "totalRating": "Total rating",
+    "productReview": "Product reviews",
+    "reviewImgUpload": "Upload photo",
+    "Form": {
+      "yourRating": "your rating",
+      "reviewComment": "your comment",
+      "reviewUpload": "Upload photo",
+      "reviewName": "your name",
+      "reviewEmail": "your email",
+      "reviewSubmit": "Submit Review"
+    }
+  },
+  "Checkout": {
+    "formTitle": "Shipping Information",
+    "orderTitle": "Order Details",
+    "paymentTitle": "payment option",
+    "dicSubTotal": "Sub Total",
+    "dicDeliveryFee": "Delivery Fee",
+    "dicCouponProvide": "Enter coupon code if available",
+    "dicTotal": "Total",
+    "dicConfirm": "Confirm the order",
+    "dicConfirmProcessing": "Order Processing",
+    "cartEmpty": "Cart is empty",
+    "bkashMsgBefore": "Pay the order amount to",
+    "bkashMsgAfter": "from 'Payment' option at Bkash and enter your Bkash account number and transaction ID below.",
+    "nagadMsgBefore": "Send the order amount to 'Send Money'",
+    "nagadMsgAfter": "in cash and enter your Nagad account number and transaction ID below.",
+    "provideBkashNumber": "Enter Bkash number",
+    "provideNagadNumber": "Enter Nagad number",
+    "bkashTransactionID": "Enter the Bkash transaction ID",
+    "nagadTransactionID": "Enter the Nagad transaction ID",
+    "Form": {
+      "nameLabel": "Enter your name",
+      "namePlaceholder": "Enter the full name",
+      "phoneLabel": "Enter your mobile number",
+      "emailLabel": "Enter your email address",
+      "emailPlaceholder": "Enter your email address",
+      "phonePlaceholder": "Enter the 11 digit mobile number",
+      "areaLabel": "Select area",
+      "insideDhaka": "Inside Dhaka",
+      "outsideDhaka": "Outside Dhaka",
+      "dhakaSubArea": "Dhaka Sub Area",
+      "freeDelevery": "Free delivery",
+      "currency": "Taka",
+      "addressLabel": "Address",
+      "addressPlaceholder": "House Number, Road, Union, Upazila, District",
+      "noteLabel": "Note",
+      "optional": "Optional",
+      "notePlaceholder": "Write here if you have any special requirements"
+    }
+  },
+  "OrderSuccess": {
+    "orderSuccess": "Congratulations! The order has been completed!",
+    "orderThanks": "Thank you for shopping at",
+    "orderIdText": "Your order id is",
+    "shoppingMore": "Shop more"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "footerDesc": "Daarib sells top-notch sporting goods in one place. Shop our performance and comfort jerseys, hats, pants & footwear. Prepare to up your game with Daarib.",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "privacyPolicy": "Privacy Policy",
+    "returnPolicy": "Return Policy",
+    "termsAndConditions": "Terms & Conditions",
+    "copyRight": "All rights reserved Daarib",
+    "payment": "Payment With",
+    "socialMedia": "Social Media",
+    "developBy": "developed by"
+  },
+  "AuthModal": {
+    "emailOrPhone": "Email or Phone Number",
+    "emailOrPhonePlaceholder": "Enter your email or phone number",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "allFieldsRequired": "All fields are required",
+    "invalidIdentifier": "Please enter a valid email or phone number",
+    "loginFailed": "Login failed. Please check your credentials",
+    "serverError": "Something went wrong. Please try again",
+    "phonePlaceholder": "Enter your phone number (9-15 digits)",
+    "phoneRequired": "Phone Number is required",
+    "phoneMinLength": "Phone number must be at least 9 digits",
+    "phoneMaxLength": "Phone number cannot exceed 15 digits",
+    "phoneInvalid": "Please enter only numbers"
+  },
+  "POS": {
+    "emailOrPhone": "Email or Phone Number"
+  }
+}

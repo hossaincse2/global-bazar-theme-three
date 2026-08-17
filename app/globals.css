@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-gray-200;
+  }
+
+  body {
+    @apply bg-white text-gray-900;
+    font-family: 'Inter', sans-serif;
+  }
+
+  main {
+    @apply min-h-screen;
+  }
+
+  @media (max-width: 767px) {
+    main {
+      padding-bottom: 4rem;
+      /* Height of the bottom menu */
+    }
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--primary-color, #0ea5e9);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--primary-color, #0284c7);
+  opacity: 0.9;
+}
+
+/* Company Info Section Styles */
+.company-info-content h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.company-info-content h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.company-info-content p {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: #4b5563;
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.company-info-content strong {
+  color: #1f2937;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .company-info-content h2 {
+    font-size: 2rem;
+  }
+
+  .company-info-content h3 {
+    font-size: 1.5rem;
+  }
+
+  .company-info-content p {
+    font-size: 1.05rem;
+  }
+}
+
+/* Product Summary HTML Rendering (from editor/rich text) */
+.product-summary ul,
+.product-summary ol {
+  padding-left: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.product-summary ul {
+  list-style-type: disc;
+}
+
+.product-summary ol {
+  list-style-type: decimal;
+}
+
+.product-summary li {
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+  color: #374151;
+}
+
+.product-summary p {
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+  color: #374151;
+}
+
+.product-summary strong,
+.product-summary b {
+  font-weight: 600;
+}
+
+.product-summary a {
+  color: #0ea5e9;
+  text-decoration: underline;
+}

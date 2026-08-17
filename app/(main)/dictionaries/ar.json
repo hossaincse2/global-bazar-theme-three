@@ -1,0 +1,240 @@
+{
+  "Header": {
+    "searchPlaceholder": "اسم المنتج هنا...",
+    "search": "بحث",
+    "itemsNumber": "عناصر",
+    "cartEmpty": "السلة فارغة",
+    "total": "المجموع",
+    "order": "اطلب الآن",
+    "currency": "تاكا",
+    "showAll": "تصفح الكل"
+  },
+  "Auth": {
+    "profile": "الملف الشخصي",
+    "myOrders": "طلباتي",
+    "login": "تسجيل الدخول",
+    "loginOrReg": "تسجيل الدخول / تسجيل",
+    "signin": "تسجيل الدخول",
+    "signup": "تسجيل حساب",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "orPhone": "أو الهاتف",
+    "password": "كلمة المرور",
+    "confPassword": "تأكيد كلمة المرور",
+    "passPlaceholder": "أدخل كلمة المرور",
+    "confPassPlaceholder": "أدخل تأكيد كلمة المرور",
+    "remember": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "namePlaceholder": "أدخل اسمك الكامل",
+    "phone": "الهاتف",
+    "phonePlaceholder": "أدخل رقم هاتفك",
+    "noAccount": "ليس لديك حساب؟",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "placed": "تم الطلب في",
+    "orderId": "رقم الطلب",
+    "orderItems": "عدد العناصر",
+    "total": "المجموع",
+    "details": "التفاصيل",
+    "invoice": "فاتورة",
+    "noFound": "لم يتم العثور على منتج",
+    "accountDetails": "تفاصيل الحساب",
+    "profilePhoto": "صورة الملف الشخصي",
+    "role": "الدور",
+    "dob": "تاريخ الميلاد",
+    "address": "العنوان",
+    "editProfile": "تعديل الملف",
+    "pending": "قيد الانتظار",
+    "processed": "قيد المعالجة",
+    "hold": "انتظار",
+    "delivered": "تم التسليم",
+    "received": "تم الاستلام",
+    "cancelled": "ملغى",
+    "tracking": "تتبع",
+    "shipping": "عنوان الشحن",
+    "products": "المنتجات",
+    "quantity": "الكمية",
+    "orderInfo": "معلومات الطلب",
+    "paymentMethod": "طريقة الدفع",
+    "subTotal": "المجموع الفرعي",
+    "deliveryFee": "رسوم التوصيل",
+    "totalPay": "المجموع المستحق",
+    "currentPass": "كلمة المرور الحالية",
+    "newPass": "كلمة المرور الجديدة",
+    "save": "حفظ التغييرات",
+    "cancel": "إلغاء",
+    "addressPlaceholder": "أدخل عنوانك هنا",
+    "all": "الكل"
+  },
+  "Cart": {
+    "pageTitle": "سلة التسوق الخاصة بك",
+    "tableProduct": "المنتج",
+    "tableName": "الاسم",
+    "tableQuantity": "الكمية",
+    "tablePrice": "السعر",
+    "tableTotal": "الإجمالي",
+    "tableSubTotal": "المجموع الفرعي",
+    "tableAction": "إزالة",
+    "tableEmpty": "سلة التسوق فارغة",
+    "tableCheckout": "المتابعة إلى الدفع",
+    "tableEmptyDesc": "يبدو أنك لم تقم بإضافة أي شيء إلى سلة التسوق بعد."
+  },
+  "Categories": {
+    "allProduct": "جميع المنتجات",
+    "bestSellingProduct": "المنتجات الأكثر مبيعاً",
+    "latestProduct": "أحدث المنتجات"
+  },
+  "Global": {
+    "all": "الكل",
+    "noFound": "لم يتم العثور على منتج",
+    "latestProduct": "أحدث المنتجات",
+    "ourProduct": "منتجاتنا",
+    "seeMore": "تصفح الكل"
+  },
+  "TemplateFour": {
+    "latest": "الأحدث",
+    "products": "المنتجات",
+    "our": "منتجات",
+    "product": "نحن"
+  },
+  "TemplateSix": {
+    "ourFoodMenuTitle": "قائمة طعامنا"
+  },
+  "Faqs": {
+    "faqTitle": "بعض الأسئلة الشائعة"
+  },
+  "Testimonial": {
+    "testimonialTitle": "تقييمات العملاء",
+    "customerSay": "ما يقوله عملاؤنا"
+  },
+  "RecentViewed": {
+    "recentTitle": "شوهد مؤخراً"
+  },
+  "RelatedProducts": {
+    "relatedTitle": "منتجات ذات صلة"
+  },
+  "Banner": {
+    "shopBanner": "صفحة المنتج"
+  },
+  "ProductCard": {
+    "seeDetails": "رؤية التفاصيل",
+    "stockOut": "إنتهى من المخزن",
+    "priceCurrency": "تاكا",
+    "seeMore": "تصفح الكل",
+    "sectionTitle": "أحدث المنتجات",
+    "SortBy": {
+      "sortBy": "ترتيب حسب",
+      "brandsLang": "العلامة التجارية",
+      "all": "جميع المنتجات",
+      "newArrival": "وصل حديثاً",
+      "bestSelling": "الأكثر مبيعاً",
+      "discount": "عرض"
+    }
+  },
+  "ProductDetails": {
+    "price": "السعر",
+    "currency": "৳",
+    "addToCart": "أضف إلى السلة",
+    "order": "اطلب الآن",
+    "productVarientSelect": "اختر نوع المنتج",
+    "stockOut": "عذراً! هذا النوع من المنتج غير متوفّر. اختر نوعاً آخر.",
+    "max": "يمكنك طلب حد أقصى",
+    "limitation": "من المنتجات. غير متوفر المزيد.",
+    "outOfStock": "عذراً، المنتج غير متوفر.",
+    "productDetails": "تفاصيل المنتج",
+    "detailsCategory": "الفئة",
+    "detailsProductCode": "كود المنتج",
+    "detailsFabrics": "الأقمشة",
+    "socialShareDic": "مشاركة عبر"
+  },
+  "ProductReview": {
+    "ratingAndReview": "تقييمات ومراجعات المنتج",
+    "writeReview": "اكتب مراجعة",
+    "totalRating": "التقييم الكلي",
+    "productReview": "مراجعات المنتج",
+    "reviewImgUpload": "رفع صورة",
+    "Form": {
+      "yourRating": "تقييمك",
+      "reviewComment": "تعليقك",
+      "reviewUpload": "رفع صورة",
+      "reviewName": "اسمك",
+      "reviewEmail": "بريدك الإلكتروني",
+      "reviewSubmit": "إرسال المراجعة"
+    }
+  },
+  "Checkout": {
+    "formTitle": "معلومات الشحن",
+    "orderTitle": "تفاصيل الطلب",
+    "paymentTitle": "خيارات الدفع",
+    "dicSubTotal": "المجموع الفرعي",
+    "dicDeliveryFee": "رسوم التوصيل",
+    "dicCouponProvide": "أدخل رمز الكوبون إذا كان متاحاً",
+    "dicTotal": "المجموع",
+    "dicConfirm": "تأكيد الطلب",
+    "dicConfirmProcessing": "جاري معالجة الطلب",
+    "cartEmpty": "السلة فارغة",
+    "bkashMsgBefore": "ادفع مبلغ الطلب إلى",
+    "bkashMsgAfter": "من خيار 'الدفع' في Bkash وأدخل رقم حساب Bkash ومعرف المعاملة أدناه.",
+    "nagadMsgBefore": "أرسل مبلغ الطلب إلى 'إرسال أموال'",
+    "nagadMsgAfter": "نقداً وأدخل رقم حساب Nagad ومعرف المعاملة أدناه.",
+    "provideBkashNumber": "أدخل رقم Bkash",
+    "provideNagadNumber": "أدخل رقم Nagad",
+    "bkashTransactionID": "أدخل معرف معاملة Bkash",
+    "nagadTransactionID": "أدخل معرف معاملة Nagad",
+    "Form": {
+      "nameLabel": "أدخل اسمك",
+      "namePlaceholder": "أدخل الاسم الكامل",
+      "phoneLabel": "أدخل رقم هاتفك",
+      "emailLabel": "أدخل بريدك الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "phonePlaceholder": "أدخل رقم الهاتف المكون من 11 رقم",
+      "areaLabel": "اختر المنطقة",
+      "insideDhaka": "داخل دكا",
+      "outsideDhaka": "خارج دكا",
+      "dhakaSubArea": "منطقة دكا الفرعية",
+      "freeDelevery": "توصيل مجاني",
+      "currency": "تاكا",
+      "addressLabel": "العنوان",
+      "addressPlaceholder": "رقم المنزل، الشارع، الاتحاد، Upazila، المنطقة",
+      "noteLabel": "ملاحظة",
+      "optional": "اختياري",
+      "notePlaceholder": "اكتب هنا إذا كان لديك أي متطلبات خاصة"
+    }
+  },
+  "OrderSuccess": {
+    "orderSuccess": "مبروك! تم اكتمال الطلب!",
+    "orderThanks": "شكراً للتسوق من",
+    "orderIdText": "رقم طلبك هو",
+    "shoppingMore": "تسوق المزيد"
+  },
+  "Footer": {
+    "contact": "اتصل بنا",
+    "footerDesc": "يبيع داريب أفضل السلع الرياضية في مكان واحد. تسوق من بين قمصان الأداء والراحة، القبعات، السراويل والأحذية. استعد لرفع مستوى لعبتك مع داريب.",
+    "company": "الشركة",
+    "aboutUs": "من نحن",
+    "privacyPolicy": "سياسة الخصوصية",
+    "returnPolicy": "سياسة الإرجاع",
+    "termsAndConditions": "الشروط والأحكام",
+    "copyRight": "جميع الحقوق محفوظة لداريب",
+    "payment": "الدفع عبر",
+    "socialMedia": "وسائل التواصل الاجتماعي",
+    "developBy": "طور بواسطة"
+  },
+  "AuthModal": {
+    "emailOrPhone": "البريد الإلكتروني أو رقم الهاتف",
+    "emailOrPhonePlaceholder": "أدخل بريدك الإلكتروني أو رقم هاتفك",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "allFieldsRequired": "جميع الحقول مطلوبة",
+    "invalidIdentifier": "الرجاء إدخال بريد إلكتروني أو رقم هاتف صالح",
+    "loginFailed": "فشل تسجيل الدخول. الرجاء التحقق من بيانات الاعتماد الخاصة بك",
+    "serverError": "حدث خطأ ما. الرجاء المحاولة مرة أخرى",
+    "phonePlaceholder": "أدخل رقم هاتفك (9-15 رقم)",
+    "phoneRequired": "رقم الهاتف مطلوب",
+    "phoneMinLength": "يجب أن يكون رقم الهاتف 9 أرقام على الأقل",
+    "phoneMaxLength": "لا يمكن أن يتجاوز رقم الهاتف 15 رقم",
+    "phoneInvalid": "الرجاء إدخال أرقام فقط"
+  }
+}
