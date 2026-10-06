@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useContext } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Navigation } from 'swiper/modules';
+import { Navigation, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 
@@ -89,9 +89,15 @@ const ProductSliderSection = ({ title, sortBy, bgColor = "bg-white" }) => {
                     ) : (
                         <>
                             <Swiper
-                                modules={[Navigation]}
+                                modules={[Navigation, Autoplay]}
                                 spaceBetween={24}
                                 slidesPerView={2}
+                                autoplay={{
+                                    delay: 3500,
+                                    disableOnInteraction: false,
+                                    pauseOnMouseEnter: true,
+                                }}
+                                loop={products.length > 5}
                                 breakpoints={{
                                     640: { slidesPerView: 3 },
                                     1024: { slidesPerView: 4 },

@@ -115,6 +115,12 @@ const BrandProductsSection = () => {
                                 modules={[Navigation, Autoplay]}
                                 spaceBetween={40}
                                 slidesPerView="auto"
+                                autoplay={{
+                                    delay: 3000,
+                                    disableOnInteraction: false,
+                                    pauseOnMouseEnter: true,
+                                }}
+                                loop={brands.length > 5}
                                 className="brand-tabs-swiper"
                                 onSwiper={(swiper) => (brandSwiperRef.current = swiper)}
                             >
@@ -187,9 +193,15 @@ const BrandProductsSection = () => {
                     ) : products.length > 0 ? (
                         <>
                             <Swiper
-                                modules={[Navigation]}
+                                modules={[Navigation, Autoplay]}
                                 spaceBetween={24}
                                 slidesPerView={2}
+                                autoplay={{
+                                    delay: 4000,
+                                    disableOnInteraction: false,
+                                    pauseOnMouseEnter: true,
+                                }}
+                                loop={products.length > 5}
                                 breakpoints={{
                                     640: { slidesPerView: 3 },
                                     1024: { slidesPerView: 4 },
