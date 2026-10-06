@@ -51,6 +51,9 @@
     "typescript": "5.9.3"
   },
   "overrides": {
-    "postcss": "$postcss"
+    "postcss": "$postcss",
+    "braces": "^3.0.3",
+    "micromatch": "^4.0.8",
+    "postcss-selector-parser": "^7.1.6"
   }
 }
